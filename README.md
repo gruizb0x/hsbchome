@@ -1,0 +1,2 @@
+# hsbchome
+Training terraform scripts
